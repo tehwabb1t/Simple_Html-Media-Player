@@ -1,0 +1,18 @@
+
+Simple Kustom Html Media Player 
+
+overview : what we're gonna do
+
+Create a folder on the desktop
+create a basic blank file inside said folder
+edit blank file 
+add the basic <html><body> tags
+open <audio> tags
+open <audio controls> to enable controls
+edit code for media files
+add <source src = "medianame.extension" type="audio/extension>"
+close </audio>
+save as KA.html and set encoding to utf8
+store the media files in the root folder for easy access.
+Run for fun
+
